@@ -29,7 +29,6 @@
     "can-connect": "git://github.com/canjs/can-connect#place-my-order2",
     "done-autorender": "0.0.4",
     "done-css": "^0.0.6",
-    "documentjs": "^0.3.0-pre.1",
-    "jquery": ">=1.9.0 <3.0.0"
+    "documentjs": "^0.3.0-pre.1"
   }
 }
