@@ -1,5 +1,7 @@
 # donejs
 
+[![Join the chat at https://gitter.im/donejs/donejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/donejs/donejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 The fastest way to get your single page application DONE!
 
